@@ -1,0 +1,29 @@
+{
+  "name": "abv-fetch",
+  "version": "0.0.1",
+  "description": "Fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "fetch",
+    "download",
+    "upload",
+    "abvos"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tondy67/abv-fetch.git"
+  },
+  "author": {
+    "name": "Todor Angelov",
+    "email": "abv@tondy.com",
+    "url": "http://tondy.com"
+  },
+  "bugs": {
+    "url": "https://github.com/tondy67/abv-fetch/issues"
+  },
+  "homepage": "https://github.com/tondy67/abv-fetch#readme",
+  "license": "MIT"
+}
